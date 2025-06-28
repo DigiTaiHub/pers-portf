@@ -1,0 +1,85 @@
+<header class="hero">
+  <h1>Hi, I'm Taiwo — a Strategic Communicator & Brand Storyteller</h1>
+  <p>I create content that connects, campaigns that convert, and brands people believe in.</p>
+  <a href="#projects" class="cta-button">View My Work</a>
+</header>
+
+<section id="about">
+  <h2>About Me</h2>
+  <p>
+    I'm a Marketing Communications Specialist driven by the magic of clear messaging and powerful storytelling.
+    I’ve led campaigns that inspire action, crafted copy that converts, and built communities around brands. Let’s talk strategy, engagement, and human-centric content.
+  </p>
+</section>
+
+<section id="about">
+  <h2>About Me</h2>
+  <p>
+    I'm a Marketing Communications Specialist driven by the magic of clear messaging and powerful storytelling.
+    I’ve led campaigns that inspire action, crafted copy that converts, and built communities around brands. Let’s talk strategy, engagement, and human-centric content.
+  </p>
+</section>
+
+<section id="skills">
+  <h2>Core Skills</h2>
+  <ul class="skills-grid">
+    <li>✅ Brand Messaging</li>
+    <li>✅ Content Strategy</li>
+    <li>✅ Copywriting & Editing</li>
+    <li>✅ Campaign Marketing</li>
+    <li>✅ Social Media Management</li>
+    <li>✅ Internal Communications</li>
+    <li>✅ Digital Analytics</li>
+  </ul>
+</section>
+
+<section id="projects">
+  <h2>Selected Projects</h2>
+  
+  <article class="project-card">
+    <h3>🌷 Urban Bloom Rebrand</h3>
+    <p>Grew web traffic 72% and tripled wedding inquiries after full rebrand and Instagram strategy overhaul.</p>
+  </article>
+
+  <article class="project-card">
+    <h3>🏥 Voices of HealthCore</h3>
+    <p>Internal campaign platform with 92% staff engagement; boosted employee NPS by 18 points.</p>
+  </article>
+
+  <article class="project-card">
+    <h3>📈 Fintech Weekly Funnel</h3>
+    <p>Grew a young investor newsletter from 5K to 22K subscribers in 9 months through content testing and optimization.</p>
+  </article>
+</section>
+
+<section id="writing">
+  <h2>Writing Samples</h2>
+  <ul>
+    <li><a href="#">📄 The Psychology of Rebranding – MarketingBeat.com</a></li>
+    <li><a href="#">📄 Humanize Your Campaign – Internal White Paper</a></li>
+    <li><a href="#">📄 Social Media Audit: [Brand Name]</a></li>
+    <li><a href="#">📄 Retail Campaign Case Study</a></li>
+  </ul>
+</section>
+
+<section id="testimonials">
+  <h2>Recognition & Words from Others</h2>
+  <blockquote>
+    "Taiwo brings energy and empathy to every campaign. A natural storyteller with a gift for strategy."  
+    <br>— Alex Chen, Brand Director
+  </blockquote>
+
+  <blockquote>
+    "Taiwo knows how to build connection—with clients, and within teams."  
+    <br>— Nina R., VP Communications, HealthCore
+  </blockquote>
+
+  <p>🏅 2024 CMA Rising Communicator · 🎙️ Panelist at MarCom Expo 2025</p>
+</section>
+
+<section id="contact">
+  <h2>Let’s Connect</h2>
+  <p>Email: <a href="mailto:hello@taiwoworks.com">hello@taiwoworks.com</a></p>
+  <p>LinkedIn: <a href="https://linkedin.com/in/taiwo">linkedin.com/in/taiwo</a></p>
+</section>
+
